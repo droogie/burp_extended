@@ -1,0 +1,3 @@
+Populate this txt file with intrusive SQL payloads
+SQL_payload_1
+SQL_payload_2

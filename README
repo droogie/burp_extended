@@ -1,0 +1,42 @@
+-- Burp Suite Extended --
+
+Thanks for looking into our burp extension framework. 
+
+
+
+--INSTALL--
+
+To get this working you'll need to have your burp suite jar inside of this directory.
+
+You'll then launch burp via the batch or sh file, please make sure that your burp jar is named correctly for the files...
+by default it should just be named 'burp.jar'
+
+That's all you really need to get the framework up and running.
+
+--DEVELOPMENT--
+
+So you want to develop your own Burp Extension? Great! 
+
+Your Extension will be written in Python and stored in the Lib/extensions/ directory.
+For any GUI related features you will be using Jython.
+There are two example skeletons and other extensions that you can look at to get an idea of how to communicate with the framework.
+We'll also try making multiple blog posts explaining how to create extensions and using the framework.
+
+
+--SUPPORT--
+
+We will be using PortSwiggers forums for any releases, updates, requests, input, communication... 
+
+http://www.burpextensions.com will have useful blog posts with instructions on: 
+	-How to use the framework
+	-Writing Extensions
+	-Burp Suite tips and tricks
+
+Always feel free to send us an email at support [at] burpextensions [dot] com
+	
+
+
+Thanks for using our framework!
+
+Joseph Tartaro  (droogie [at] burpextensions [dot] com)
+James Lester	(infodel [at] burpextensions [dot] com)
