@@ -1,7 +1,15 @@
 -- Burp Suite Extended --
 
-Thanks for looking into our burp extension framework. 
+Burp Suite Extended is a framework that can load multiple extensions written in python simultaneously, as well as the ability to add GUI features to your extensions and controlling the order of multiple outbound extensions.
 
+We attempted to make it easier on developers to create and release extensions by:
+
+	- Developing in the python scripting language
+	- Jython support to add GUI features
+	- Drag and Drop Extension Support for users downloading others extensions
+	- Giving the users the ability to decide the order and what extensions they would like to use on all outbound requests
+
+Thanks for looking into our burp extension framework. 
 
 
 --INSTALL--
