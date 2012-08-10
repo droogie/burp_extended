@@ -194,7 +194,7 @@ class ExtensionWindow(object):
 		self.splitPane.setLeftComponent(self.list);
 		
 		label = javax.swing.JLabel()
-		label.setIcon(javax.swing.ImageIcon("Burp-Extended.jpeg"))
+		label.setIcon(javax.swing.ImageIcon("BEFlogo_CycloneSweetie.jpeg"))
 		panel1 = javax.swing.JPanel()
 		panel1.add(label)
 		#panel1.setBackground(java.awt.Color(255,140,0))
