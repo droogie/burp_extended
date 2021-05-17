@@ -1,3 +1,5 @@
+All of the features of this framework are now integrated into Burp Suite, making this obsolete. The current repo has been archived and will exist only for historical reference. 
+
 -- Burp Suite Extended --
 
 Burp Suite Extended is a framework that can load multiple extensions written in python simultaneously, as well as the ability to add GUI features to your extensions and controlling the order of multiple outbound extensions.
